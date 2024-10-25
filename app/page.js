@@ -15,9 +15,9 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>app/page.js</code>.
+            GETHACKEDGETHECKEDIAMTHEHECKER <code>GET. HECKED. </code>.
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>I WILL HECK YOU DOWN.</li>
         </ol>
 
         <div className={styles.ctas}>
