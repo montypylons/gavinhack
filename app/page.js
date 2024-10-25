@@ -34,7 +34,7 @@ export default function Home() {
               width={20}
               height={20}
             />
-            Deploy now
+            GET HACKED
           </a>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
@@ -42,7 +42,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className={styles.secondary}
           >
-            Read our docs
+            GET HECKED HECKED HECKED HECKED HECKED HACEKD IM IN!
           </a>
         </div>
       </main>
@@ -87,7 +87,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to nextjs.org →
+          GET HACKED GET HACKED I AM HECKER FOR ALL HECKERKIND →
         </a>
       </footer>
     </div>
